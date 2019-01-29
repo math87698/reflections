@@ -1,0 +1,2 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It it the intermediate level for committing changes to git. It helps to select specific files to commit every logical change to git
