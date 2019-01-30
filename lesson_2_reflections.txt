@@ -9,3 +9,6 @@ When you create separate/different instances or just want to experiment without 
 
 How do the diagrams help you visualize the branch structure?
 You can see dependencies and at what point merging will be necessary
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It combines changes from two different files into one. The versions before do not exist anymore as visualized and are combined
