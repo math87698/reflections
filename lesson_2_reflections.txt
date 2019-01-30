@@ -1,2 +1,11 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It it the intermediate level for committing changes to git. It helps to select specific files to commit every logical change to git
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can revisit changes and hold the commit back until you have added all files belonging to this logical changes
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you create separate/different instances or just want to experiment without interfering to the main version
+
+How do the diagrams help you visualize the branch structure?
+You can see dependencies and at what point merging will be necessary
