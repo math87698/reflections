@@ -12,3 +12,6 @@ You can see dependencies and at what point merging will be necessary
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It combines changes from two different files into one. The versions before do not exist anymore as visualized and are combined
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging is fast and less prone to errors while manual merges are closer to the logical change but are also more prone to errors
