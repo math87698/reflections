@@ -1,1 +1,2 @@
-
+When would you want to use a remote repository rather than keeping all your work local?
+In cases I am at a different computer or there are some changes in documentations and not in the code
